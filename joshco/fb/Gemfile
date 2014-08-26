@@ -1,0 +1,9 @@
+source 'https://rubygems.org'
+
+gem "koala", "~> 1.10.0rc"
+gem 'pry'
+gem 'pry-stack_explorer'
+gem 'andand'
+gem 'faraday'
+
+
